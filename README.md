@@ -5,7 +5,7 @@
 ## 기술스택
 - OpenAI API
 - GPTs
-- FAISS Venctor db
+- FAISS Vector db
 - FAISS + RM25 Ensemble Retriever
 
 ## Project Structure
