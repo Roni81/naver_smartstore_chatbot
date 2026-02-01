@@ -6,7 +6,7 @@
 - OpenAI API
 - GPTs
 - FAISS Vector db
-- FAISS + RM25 Ensemble Retriever
+- FAISS + BM25 Ensemble Retriever
 
 ## Project Structure
 ```python
